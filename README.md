@@ -1,0 +1,2 @@
+# MachineVisionFullStack_Whitepaper
+MachineVisionFullStack_Whitepaper 机器视觉全栈白皮书，我会在这里写下对机器视觉全栈成体系的思考。
